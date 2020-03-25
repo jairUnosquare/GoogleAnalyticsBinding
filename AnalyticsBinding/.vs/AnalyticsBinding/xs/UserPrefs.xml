@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnalyticsBinding/ApiDefinition.cs">
+    <Files>
+      <File FileName="AnalyticsBinding/ApiDefinition.cs" Line="111" Column="35" />
+      <File FileName="AnalyticsBinding/Structs.cs" Line="3" Column="26" />
+      <File FileName="AnalyticsBinding/StructsAndEnums.cs" Line="17" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnalyticsBinding" expanded="True">
+            <Node name="AnalyticsBinding" expanded="True">
+              <Node name="ApiDefinition.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

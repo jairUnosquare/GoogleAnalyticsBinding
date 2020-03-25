@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{5773218F-202B-473C-944F-CC59F1C941E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnalyticsSample FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C780BEF5-8689-4AA0-8D47-3C494348D606" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnalyticsSample/ViewController.cs">
+    <Files>
+      <File FileName="AnalyticsSample/ViewController.cs" Line="4" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnalyticsSample" expanded="True">
+            <Node name="AnalyticsSample" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
